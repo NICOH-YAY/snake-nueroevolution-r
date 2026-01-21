@@ -83,6 +83,8 @@ No memory or temporal awareness
 The agent reacts only to the current state.
 Shiny performance limitations
 Evolution currently runs synchronously. Asynchronous execution or batch-based visualization would improve responsiveness.
-<img width="866" height="923" alt="image" src="https://github.com/user-attachments/assets/6a666bf6-5123-4f0d-94dc-ab97cc04c75c" />
-<img width="637" height="656" alt="image" src="https://github.com/user-attachments/assets/1435ab3c-5891-4cf5-ab16-3be3cd565d75" />
-<img width="872" height="926" alt="image" src="https://github.com/user-attachments/assets/c4f30a63-7b30-45bc-81f0-ef84b600eb67" />
+<img width="637" height="656" alt="image" src="https://github.com/user-attachments/assets/a262f405-fd9a-4cee-98c7-c2c0fdbc2b30" /> <img width="866" height="923" alt="image" src="https://github.com/user-attachments/assets/e9592f5a-efcc-4898-9478-d2639c48002c" /> <img width="872" height="926" alt="image" src="https://github.com/user-attachments/assets/4b18a8bf-9595-4405-a766-3050e25d8d8d" />
+
+
+
+
